@@ -15,4 +15,5 @@ If we want to add a user, we can click on "add member" Fill in your details ther
 Next to each member there are delete buttons to delete it from the list
 In addition, there is an edit button to edit the member details
 [https://github.com/Efrat-Gortler/Hadasim--project/blob/main/photo/%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%202024-03-28%20114335.png]
+ 
  You can also filter the member to show only those who were sick
