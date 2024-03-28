@@ -1,0 +1,15 @@
+C:\Users\גורטלר\Pictures\HadasimHomeWork\Twitter\Twitter\Twitter\bin\Debug\net6.0\Twitter.exe
+C:\Users\גורטלר\Pictures\HadasimHomeWork\Twitter\Twitter\Twitter\bin\Debug\net6.0\Twitter.deps.json
+C:\Users\גורטלר\Pictures\HadasimHomeWork\Twitter\Twitter\Twitter\bin\Debug\net6.0\Twitter.runtimeconfig.json
+C:\Users\גורטלר\Pictures\HadasimHomeWork\Twitter\Twitter\Twitter\bin\Debug\net6.0\Twitter.dll
+C:\Users\גורטלר\Pictures\HadasimHomeWork\Twitter\Twitter\Twitter\bin\Debug\net6.0\Twitter.pdb
+C:\Users\גורטלר\Pictures\HadasimHomeWork\Twitter\Twitter\Twitter\obj\Debug\net6.0\Twitter.csproj.AssemblyReference.cache
+C:\Users\גורטלר\Pictures\HadasimHomeWork\Twitter\Twitter\Twitter\obj\Debug\net6.0\Twitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\גורטלר\Pictures\HadasimHomeWork\Twitter\Twitter\Twitter\obj\Debug\net6.0\Twitter.AssemblyInfoInputs.cache
+C:\Users\גורטלר\Pictures\HadasimHomeWork\Twitter\Twitter\Twitter\obj\Debug\net6.0\Twitter.AssemblyInfo.cs
+C:\Users\גורטלר\Pictures\HadasimHomeWork\Twitter\Twitter\Twitter\obj\Debug\net6.0\Twitter.csproj.CoreCompileInputs.cache
+C:\Users\גורטלר\Pictures\HadasimHomeWork\Twitter\Twitter\Twitter\obj\Debug\net6.0\Twitter.dll
+C:\Users\גורטלר\Pictures\HadasimHomeWork\Twitter\Twitter\Twitter\obj\Debug\net6.0\refint\Twitter.dll
+C:\Users\גורטלר\Pictures\HadasimHomeWork\Twitter\Twitter\Twitter\obj\Debug\net6.0\Twitter.pdb
+C:\Users\גורטלר\Pictures\HadasimHomeWork\Twitter\Twitter\Twitter\obj\Debug\net6.0\Twitter.genruntimeconfig.cache
+C:\Users\גורטלר\Pictures\HadasimHomeWork\Twitter\Twitter\Twitter\obj\Debug\net6.0\ref\Twitter.dll

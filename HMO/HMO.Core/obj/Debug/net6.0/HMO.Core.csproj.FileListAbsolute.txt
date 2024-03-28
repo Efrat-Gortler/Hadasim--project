@@ -1,0 +1,36 @@
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Core\bin\Debug\net6.0\HMO.Core.deps.json
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Core\bin\Debug\net6.0\HMO.Core.dll
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Core\bin\Debug\net6.0\HMO.Core.pdb
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Core\obj\Debug\net6.0\HMO.Core.csproj.AssemblyReference.cache
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Core\obj\Debug\net6.0\HMO.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Core\obj\Debug\net6.0\HMO.Core.AssemblyInfoInputs.cache
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Core\obj\Debug\net6.0\HMO.Core.AssemblyInfo.cs
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Core\obj\Debug\net6.0\HMO.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Core\obj\Debug\net6.0\HMO.Core.dll
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Core\obj\Debug\net6.0\refint\HMO.Core.dll
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Core\obj\Debug\net6.0\HMO.Core.pdb
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Core\obj\Debug\net6.0\ref\HMO.Core.dll
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Core\bin\Debug\net6.0\HMO.Core.deps.json
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Core\bin\Debug\net6.0\HMO.Core.dll
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Core\bin\Debug\net6.0\HMO.Core.pdb
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Core\obj\Debug\net6.0\HMO.Core.csproj.AssemblyReference.cache
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Core\obj\Debug\net6.0\HMO.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Core\obj\Debug\net6.0\HMO.Core.AssemblyInfoInputs.cache
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Core\obj\Debug\net6.0\HMO.Core.AssemblyInfo.cs
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Core\obj\Debug\net6.0\HMO.Core.csproj.CoreCompileInputs.cache
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Core\obj\Debug\net6.0\HMO.Core.dll
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Core\obj\Debug\net6.0\refint\HMO.Core.dll
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Core\obj\Debug\net6.0\HMO.Core.pdb
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Core\obj\Debug\net6.0\ref\HMO.Core.dll
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Core\bin\Debug\net6.0\HMO.Core.deps.json
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Core\bin\Debug\net6.0\HMO.Core.dll
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Core\bin\Debug\net6.0\HMO.Core.pdb
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Core\obj\Debug\net6.0\HMO.Core.csproj.AssemblyReference.cache
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Core\obj\Debug\net6.0\HMO.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Core\obj\Debug\net6.0\HMO.Core.AssemblyInfoInputs.cache
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Core\obj\Debug\net6.0\HMO.Core.AssemblyInfo.cs
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Core\obj\Debug\net6.0\HMO.Core.csproj.CoreCompileInputs.cache
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Core\obj\Debug\net6.0\HMO.Core.dll
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Core\obj\Debug\net6.0\refint\HMO.Core.dll
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Core\obj\Debug\net6.0\HMO.Core.pdb
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Core\obj\Debug\net6.0\ref\HMO.Core.dll

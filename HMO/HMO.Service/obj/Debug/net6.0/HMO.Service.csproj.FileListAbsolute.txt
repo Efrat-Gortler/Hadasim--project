@@ -1,0 +1,45 @@
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Service\bin\Debug\net6.0\HMO.Service.deps.json
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Service\bin\Debug\net6.0\HMO.Service.dll
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Service\bin\Debug\net6.0\HMO.Service.pdb
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Service\bin\Debug\net6.0\HMO.Core.dll
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Service\bin\Debug\net6.0\HMO.Core.pdb
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.csproj.AssemblyReference.cache
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.AssemblyInfoInputs.cache
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.AssemblyInfo.cs
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.csproj.CopyComplete
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.dll
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Service\obj\Debug\net6.0\refint\HMO.Service.dll
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.pdb
+C:\Users\user1\OneDrive\שולחן העבודה\תכנות\HMO\HMO.Service\obj\Debug\net6.0\ref\HMO.Service.dll
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Service\bin\Debug\net6.0\HMO.Service.deps.json
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Service\bin\Debug\net6.0\HMO.Service.dll
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Service\bin\Debug\net6.0\HMO.Service.pdb
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Service\bin\Debug\net6.0\HMO.Core.dll
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Service\bin\Debug\net6.0\HMO.Core.pdb
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.csproj.AssemblyReference.cache
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.AssemblyInfoInputs.cache
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.AssemblyInfo.cs
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.csproj.CoreCompileInputs.cache
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.csproj.CopyComplete
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.dll
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Service\obj\Debug\net6.0\refint\HMO.Service.dll
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.pdb
+C:\Users\גורטלר\Pictures\HadasimHomeWork\HMO\HMO.Service\obj\Debug\net6.0\ref\HMO.Service.dll
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Service\bin\Debug\net6.0\HMO.Service.deps.json
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Service\bin\Debug\net6.0\HMO.Service.dll
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Service\bin\Debug\net6.0\HMO.Service.pdb
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Service\bin\Debug\net6.0\HMO.Core.dll
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Service\bin\Debug\net6.0\HMO.Core.pdb
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.csproj.AssemblyReference.cache
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.AssemblyInfoInputs.cache
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.AssemblyInfo.cs
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.csproj.CoreCompileInputs.cache
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.csproj.CopyComplete
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.dll
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Service\obj\Debug\net6.0\refint\HMO.Service.dll
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Service\obj\Debug\net6.0\HMO.Service.pdb
+C:\Users\גורטלר\Documents\HadasimHomeWork\HMO\HMO.Service\obj\Debug\net6.0\ref\HMO.Service.dll
