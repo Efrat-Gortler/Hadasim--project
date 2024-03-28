@@ -18,3 +18,4 @@ In addition, there is an edit button to edit the member details
  
  You can also filter the member to show only those who were sick.
 and Search member by name.
+In addition, you can only display the members who have not been vaccinated
